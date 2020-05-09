@@ -13,5 +13,7 @@ def link
 end
 
 def all_phrases
-expect{all_phrases}.to 
+ mario 
+ toadstool
+ link
 end
