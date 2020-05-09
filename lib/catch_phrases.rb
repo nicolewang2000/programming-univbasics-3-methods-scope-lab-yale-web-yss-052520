@@ -13,5 +13,5 @@ def link
 end
 
 def all_phrases
-
+expect{all_phrases}.to 
 end
